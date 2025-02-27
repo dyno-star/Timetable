@@ -1,16 +1,20 @@
-<<<<<<< HEAD
-# timetable
-=======
-# React + Vite
+# Timetable
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Timetable is a React-based application designed to help users manage and organize their trip schedules efficiently.
 
-Currently, two official plugins are available:
+## Features
+- Calendar component for scheduling events.
+- User-friendly interface built with React and Vite.
+- Fast refresh and optimized performance.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Technologies Used
+- React
+- Vite
+- JavaScript
+- CSS
 
-## Expanding the ESLint configuration
+## Installation
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
->>>>>>> d44838a (Initial commit)
+1. Clone the repository:
+   ```sh
+   git clone https://github.com/dyno-star/timetable.git
