@@ -24,7 +24,7 @@ td {
   background-color: #f06292; /* Vibrant Pink */
   padding: 10px 15px;
   min-height: 50px;
-  width: auto; /* Makes the background fit content */
+  width: auto;
 }
 
 .blue {
